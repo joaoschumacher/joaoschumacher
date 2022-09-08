@@ -1,7 +1,7 @@
 # Hi there, I’m João! 👋 
 ## I’m a student! 🐱‍👤
 
-- 📚 I’m currently learning HTML, CSS, JavaScript and C for embedded systems.
+- 📚 I’m currently learning JavaScript and C for embedded systems.
 - 📡 I study Electronics at a technical school called Fundação Escola Técnica Liberato Salzano Vieira da Cunha
 
 <a href="https://github.com/joaoschumacher/github-readme-stats">
